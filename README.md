@@ -1,4 +1,4 @@
-genre-map
+Genre map
 =========
 
 Mind map style genre player
